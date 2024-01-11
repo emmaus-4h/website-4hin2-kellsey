@@ -47,6 +47,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   text-align: center;             /* tekst centreren */
 } 
 
+
 p {
   margin: 10px 0px;
   text-align: justify;            /* tekst links en rechts uitvullen */
@@ -100,6 +101,10 @@ img {
 .item-plaatjeklein4 {
   float: right;
   height: 20px;
+}
+
+.item-text {
+  margin-right: 50px; 
 }
 
 

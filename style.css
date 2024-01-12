@@ -62,9 +62,9 @@ img {
 /* .item {} */ /* hier doen we nog niks mee, dat mag je zelf toevoegen */
 
 .item-plaatje {
-  float:left;
-  width:250px;
-  padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
+  float: left;
+  width:250px; 
+  padding-right: 15px;/* zorgt dat plaatje niet tegen tekst komt */
 }
 .item-plaatje2 {
   float: right;
